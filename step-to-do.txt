@@ -1,0 +1,6 @@
+Preparing
+  1. react router
+  2. styled-component
+  3. prop-types
+Learn async - await
+  
